@@ -10,6 +10,7 @@ namespace _17While
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
         }
     }
 }
